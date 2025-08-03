@@ -36,6 +36,6 @@ A passionate **Full-Stack Web Developer** from Pakistan 🇵🇰
 ---
 
 ## 🌐 Portfolio
-🔗 [Visit My Portfolio](bilalahmar.vercel.app)
+🔗 [Visit My Portfolio](https://bilalahmar.vercel.app)
 
 ---
