@@ -25,7 +25,7 @@ A passionate **Full-Stack Web Developer** from Pakistan 🇵🇰
 
 ## 💼 Featured Projects
 
-- 🔥 [**Blogverse** – MERN Blog Platform](https://github.com/bilalahmar/blogverse)  
+- 🔥 [**Blogverse** – MERN Blog Platform](https://blogverse-frontend-00n6.onrender.com)  
   A modern full-stack blog app with authentication, likes, comments, and user profile management.
 
 - 💬 [**Real-time Job Chat**](https://github.com/bilalahmar/job-chat-app)  
