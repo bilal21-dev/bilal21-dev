@@ -25,7 +25,7 @@ A passionate **Full-Stack Web Developer** from Pakistan 🇵🇰
 
 ## 💼 Featured Projects
 
-- 🔥 [**Blogverse** – MERN Blog Platform](https://blogverse-frontend-00n6.onrender.com)  
+- 🔥 [**BLOGVERSE**](https://blogverse-frontend-00n6.onrender.com)  
   Built a full stack blogging platform where users can write blogs on various topics. The platform includes Like, Comment & Share feature, worldwide news integration, profile management and secure authentication.
 
 - 💬 [**PAK-TRAVELS**](https://paktravels-frontend.onrender.com)  
