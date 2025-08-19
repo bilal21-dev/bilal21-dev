@@ -26,10 +26,10 @@ A passionate **Full-Stack Web Developer** from Pakistan 🇵🇰
 ## 💼 Featured Projects
 
 - 🔥 [**Blogverse** – MERN Blog Platform](https://blogverse-frontend-00n6.onrender.com)  
-  A modern full-stack blog app with authentication, likes, comments, and user profile management.
+  Built a full stack blogging platform where users can write blogs on various topics. The platform includes Like, Comment & Share feature, worldwide news integration, profile management and secure authentication.
 
-- 💬 [**Real-time Job Chat**](https://github.com/bilalahmar/job-chat-app)  
-  Real-time chat app between job applicants and employers with socket.io integration.
+- 💬 [**PAK-TRAVELS**](https://paktravels-frontend.onrender.com)  
+  Built a full-stack travel planning platform with features that allow users to explore destinations, interactive map, real-time weather updates, trip search, trip creation, secure payments, OTP verification for password recovery, and trip registration.
 
 <!-- Add more project links here -->
 
